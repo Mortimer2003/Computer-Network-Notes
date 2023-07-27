@@ -6,3 +6,8 @@
 * [传输层](https://mortimer-workspace.notion.site/bc487feeca2c46c2aa09f5c06340ec21?pvs=4)
 * [网络层](https://mortimer-workspace.notion.site/74d6aa3fb7df4b4bba403b5138634063?pvs=4)
 * [链路层](https://mortimer-workspace.notion.site/9a4e3389f7324ab8ba378094d5db0962?pvs=4)
+
+---
+
+其他科目笔记：[笔记合集](https://mortimer-workspace.notion.site/5973720904a44feabf3fd1683c018777?v=c9e665fc020c4f43bb9b1b476983f1bf&pvs=4)
+//包括【数据结构】【操作系统】【计算机网络】【软件分析设计与建模（UML）】【会计学】【财务管理】【营销学原理】【组织行为学】等科目
